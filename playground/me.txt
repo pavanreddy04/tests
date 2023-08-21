@@ -1,0 +1,6 @@
+{{#user}}
+Name: pavan reddy
+python , django , mysql , Html
+Email:pavanpython@gmail.com
+{{/user}}
+
